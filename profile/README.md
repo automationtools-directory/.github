@@ -1,6 +1,6 @@
 ## Automation Tools Directory: Find the Right Tools Fast
 
-[Automation Tools Directory](https://www.automationtools.directory/) is a curated list of 100+ tools that help you automate repetitive tasks. Whether for marketing, customer support, or data work, it connects you to solutions that save time and reduce errors.
+Automation Tools Directory is a curated list of 100+ tools that help you automate repetitive tasks. Whether for marketing, customer support, or data work, it connects you to solutions that save time and reduce errors.
 
 ### What You’ll Find
 
